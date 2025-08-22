@@ -1,9 +1,9 @@
 #  Global Superstores Ltd. Sales Analysis Dashboard 
 ## Table of Content
  - [Description](#description)
- - [Business Introduction](#businessintroduction)
- - [Business Problem](#businessproblem)
- - [Objectives of The Analysis](#objectivesofTheAnalysis)
+ - [Business Introduction](#business-introduction)
+ - [Business Problem](#business-problem)
+ - [Objectives of The Analysis](#objectives-of-the-analysis)
  - [Analysis](#analysis)
  - [Conclusion](#conclusion)
  - [Recommendations](#recommendations)
